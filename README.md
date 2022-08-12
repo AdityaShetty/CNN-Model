@@ -49,9 +49,4 @@ You can run this block as many times you want to test the images. The prediction
 
 *The entire notebook will take 12-15 minutes to run all blocks in GPU environment.*
 
-## Authors
-
-- [@AdityaShetty_21200138](https://github.com/ACM40960/project-AdityaShetty24)
-
-- [@TejaBhat_21201067](https://github.com/ACM40960/project-TejarBhat)
 
